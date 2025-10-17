@@ -2,4 +2,6 @@
 Microsoft Azure Administrator(AZ-104 ) Exam Prep guide.
 
 ## Exam demo questions with solution
-https://github.com/Iamrushabhshahh/Microsoft-Azure-Administrator-AZ-104-Exam-Dump-Question-With-Solution.git
+https://github.com/Iamrushabhshahh/Microsoft-Azure-Administrator-AZ-104-Exam-Dump-Question-With-Solution.git        
+
+https://certempire.com/practice-tests/free-az-104-practice-test/
